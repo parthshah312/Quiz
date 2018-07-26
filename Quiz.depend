@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1532338824 source:c:\users\admin\desktop\python programs\quiz\main.c
+	<stdio.h>
+	<conio.h>
+
+1532580946 source:c:\users\admin\desktop\c programs\quiz\main.c
+	<stdio.h>
+	<conio.h>
+
